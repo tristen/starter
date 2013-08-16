@@ -27,6 +27,7 @@ prose:
           element: "text"
           label: "Splash image"
           value: ""
+          placeholder: "Enter a URL"
       - name: "tags"
         field:
           element: "multiselect"
