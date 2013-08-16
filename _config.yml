@@ -21,6 +21,7 @@ prose:
           element: "text"
           label: "Title"
           value: ""
+          placeholder: "Blog Title"
       - name: "splash"
         field:
           element: "text"
