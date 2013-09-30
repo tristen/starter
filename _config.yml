@@ -20,6 +20,7 @@ prose:
         field:
           element: "text"
           label: "Title"
+          help: "A title should be short and concise"
           value: ""
           placeholder: "Blog Title"
       - name: "splash"
@@ -33,6 +34,7 @@ prose:
           element: "multiselect"
           label: "Add Tags"
           placeholder: "Choose Tags"
+          help: "Before adding an additional tag, Check the list first"
           alterable: true
           options:
             - name: "Apples"
